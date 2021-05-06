@@ -9,8 +9,7 @@ My name is Mal. One day I want to write programs that fly rockets, but today I'm
       - Goal: Load in puzzles, allow user to solve, check if solve is valid
 -   [Text-based_Blackjack](https://github.com/malloryeastburn/Black-Jack-PY.git)
       - Currently: Allows user to play blackjack against dealer
-      - Issues: Betting system is not working yet. 
-                If user gets blackjack, game ends without checking if dealer has blackjack.
+      - Issues: Code needs to be rearranged for efficiency
       - Goal: Create scoreboard, and user database that keeps coin totals for returning users and shows users with highest coins.
      
 - 🌱 I’m currently learning: Python, VBA, C#, C++, and SQL
