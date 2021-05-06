@@ -1,6 +1,6 @@
 Hi there 👋
 My name is Mal. One day I want to write programs that fly rockets, but today I'm learning how to print("Hello World")
-I will complete 100 Days of Code on 8/7/21.
+- I will complete 100 Days of Code on 8/7/21.
 
 - 🔭 I’m currently working on: 
 -    [Sudoku_Solver](https://github.com/malloryeastburn/Sudoku-Solver-PY.git)
