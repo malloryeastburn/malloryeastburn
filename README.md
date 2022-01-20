@@ -1,18 +1,7 @@
 Hi there 👋
 My name is Mal. One day I want to write programs that fly rockets, but today I'm learning how to print("Hello World")
-- I will complete 100 Days of Code on 8/7/21.
-
-- 🔭 I’m currently working on: 
--    [Sudoku_Solver](https://github.com/malloryeastburn/Sudoku-Solver-PY.git)
-      - Currently: Allows user to enter any sudoku puzzle and solves it for user
-      - Issues: If player enters an unsolvable puzzle, program never ends
-      - Goal: Load in puzzles, allow user to solve, check if solve is valid
--   [Text-based_Blackjack](https://github.com/malloryeastburn/Black-Jack-PY.git)
-      - Currently: Allows user to play blackjack against dealer
-      - Issues: Code needs to be rearranged for efficiency
-      - Goal: Create scoreboard, and user database that keeps coin totals for returning users and shows users with highest coins.
      
-- 🌱 I’m currently learning: Python, VBA, C#, C++, and SQL
+- 🌱 I’m currently learning: Cloud Services, Strategies, and Solutions
  
 - 👯 I’m looking to collaborate on: Anything. I would love to see how the collaboration process works.
  
