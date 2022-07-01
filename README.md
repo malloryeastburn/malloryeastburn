@@ -7,13 +7,11 @@ My name is Mal. One day I want to write programs that fly rockets, but today I'm
  
 - 🤔 I’m looking for help with: Bridging the gap between "Coding as a hobby" and "A professional developer".
  
-- 💬 Ask me about: How I went from homeless to hopeful.
- 
 - 📫 Personal Website: [I made dis.](https://malloryeastburn.com)
  
-- 😄 Pronouns: She/Her/They/Them/He/Him/It/Its
+- 😄 Pronouns: She/Her
  
 - ⚡ Fun facts:
    - My dog's name is Delilah, but she only answers to Dilly.
-   - I own a company called "LezBows" and I sew and sell handmade bowties.
+   - I own a company and I sew and sell handmade bowties.
    - I can see SpaceX's McGregor testing site from my backyard.
